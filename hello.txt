@@ -13,5 +13,4 @@ hello dylan! hello git!
 hello dylan! hello git!
 hello dylan! hello git!
 hello dylan! hello git! master test
-hello dylan! hello git!
-
+hello dylan! hello git! hot-fix test
